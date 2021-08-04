@@ -30,6 +30,4 @@ Be familiar with pandas' Series and DataFrame objects, which let you access your
 Know how to use Matplotlib to produce plots showing your findings
 
 Credits: 
-
-https://classroom.udacity.com/courses
-Data Analyst Nanodegree Program
+https://www.udacity.com/
